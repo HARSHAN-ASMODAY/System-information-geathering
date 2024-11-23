@@ -1,0 +1,5 @@
+2024-11-24 00:41:30,043 - ERROR - Error getting user files: [WinError 2] The system cannot find the file specified: 'C:\\Users\\harsh\\Documents\\My Pictures'
+2024-11-24 00:41:30,043 - INFO - System information gathered successfully
+2024-11-24 00:41:30,044 - INFO - Information sent to localhost:4444
+2024-11-24 00:41:30,045 - INFO - Startup script created at C:\Users\harsh\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\system_monitor.bat
+2024-11-24 00:41:30,045 - INFO - Monitoring completed successfully

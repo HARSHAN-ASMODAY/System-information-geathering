@@ -1,0 +1,5 @@
+[autorun]
+open=launch.bat
+icon=usb.ico
+label=USB Drive
+action=Open USB Drive
